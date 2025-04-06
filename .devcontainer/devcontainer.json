@@ -5,7 +5,8 @@
     },
     "customizations": {
       "vscode": {
-        "extensions": []
+        // This extension is included to provide Docker support within the devcontainer.
+        "extensions": ["ms-azuretools.vscode-docker"]
       }
     },
     "forwardPorts": []
