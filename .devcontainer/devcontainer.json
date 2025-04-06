@@ -1,0 +1,12 @@
+{
+    "name": "Minimal Devcontainer",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": []
+      }
+    },
+    "forwardPorts": []
+  }
